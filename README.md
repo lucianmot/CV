@@ -2,28 +2,6 @@
 
 Hello, my name is Lucian, I'm from Transylvania (Romania), not a vampire. Together with a team won #1 in National Case Study Competition in 2012, work at Ersnt & Young to privatize Romania's biggest nuclear power plant, and then started Visual Edge, a graphic design and web development agency, grew it to 9 full time employees. The reason why I left my company and country was because I wanted to learn more Javascript, and there weren't as many high level opportunities to do that in Romania. Javascript felt pretty complex back then, but now I just want to learn/try out as many tech stacks as possible. Complexity is the most interesting thing to me.
 
-## Skills
-
-#### Teamwork
-
-Very early on I realized that the most successful things I have done in life were all because the team aspect functioned really well, so when I started my own company I started making a conscious effort in developing this skill further.
-
-- Won #1 in National Case Study Competition with a good team dynamic
-- Built a team for my company
-
-#### Learning -> Understanding -> Explaining
-
-Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
-
-- every project that you can find on my company website
-
-#### Driven to excel
-
-Dedicated to mastering any skill I decide to undertake
-
-- This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
-- #2 World of Warcraft Eurogames 2v2 PVP Tournament
-
 ## Projects
 
 ### 🌲 [Forest - an esoteric programming language](https://github.com/lucianmot/f.rest) - Makers final project 
@@ -61,6 +39,30 @@ Dedicated to mastering any skill I decide to undertake
 * CSS, HTML 
 * JQuery, Javascript
 * Pairing, teamwork 
+
+
+## Skills
+
+#### Teamwork
+
+Very early on I realized that the most successful things I have done in life were all because the team aspect functioned really well, so when I started my own company I started making a conscious effort in developing this skill further.
+
+- Won #1 in National Case Study Competition with a good team dynamic
+- Built a team for my company
+
+#### Learning -> Understanding -> Explaining
+
+Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
+
+- every project that you can find on my company website
+
+#### Driven to excel
+
+Dedicated to mastering any skill I decide to undertake
+
+- This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
+- #2 World of Warcraft Eurogames 2v2 PVP Tournament
+
 
 ## Experience
 
