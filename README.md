@@ -91,7 +91,7 @@ Dedicated to mastering any skill I decide to undertake
 - Ruby, Rails, JavaScript, Python
 - RSpec, Jasmine, Jest
 
-#### Griffiths School of Management (start_date to end_date)
+#### Griffiths School of Management (2009 to 2013)
 
 - Business degree, focusing on Entrepreneurial Marketing
 - Grade: 9/10
