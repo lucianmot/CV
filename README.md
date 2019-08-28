@@ -6,7 +6,7 @@ Hello, my name is Lucian, I'm from Transylvania (Romania), not a vampire. Togeth
 
 #### Teamwork
 
-Very early on I realized that the most successfull things I have done in life were all because the team aspect functioned really well, so when I started my own company I started making a concious effort in developing this skill further.
+Very early on I realized that the most successful things I have done in life were all because the team aspect functioned really well, so when I started my own company I started making a conscious effort in developing this skill further.
 
 - Won #1 in National Case Study Competition with a good team dynamic
 - Built a team for my company
@@ -50,9 +50,9 @@ Dedicated to mastering any skill I decide to undertake
 * CI/CD tools: Rake, Travis, Heroku  
 * BDD, TDD 
 * Agile, teamwork 
-* Continous integration, continuous deployment
+* Continuous integration, continuous deployment
 
-### :computer: [Visual Edge - my company website](https://visualedge.ro/projects/?lang=en) - a project portofolio website
+### :computer: [Visual Edge - my company website](https://visualedge.ro/projects/?lang=en) - a project portfolio website
 
 **Tech and methodologies used:**  
 
@@ -101,8 +101,8 @@ Dedicated to mastering any skill I decide to undertake
 
 I'm a bit weird in regards to my hobbies, because I pick some hobbies quickly, my interest in that hobby grows really intense for about 1-3 years, and then I just simple grow bored and change hobbies. I have had a lot of hobbies in the past years. So here is a list in reverse chronological order of the more notable ones:
 - Magic of The Gathering(card game)
-- e-commerce start-up
-- semi-professional photography
-- business networking
-- video games
-- public speaking club
+- E-commerce start-up
+- Semi-professional photography
+- Business networking
+- Video games
+- Public speaking club
