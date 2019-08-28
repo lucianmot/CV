@@ -62,6 +62,7 @@ Dedicated to mastering any skill I decide to undertake
 
 - This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
 - #2 World of Warcraft Eurogames 2v2 PVP Tournament
+- we increased a client revenue from 11.000.000 € to 17.000.000 € in 6 months they had to hire 20 new employees just to answer phones call for orders being placed
 
 
 ## Experience
