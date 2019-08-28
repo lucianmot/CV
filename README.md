@@ -15,13 +15,13 @@ Very early on I realized that the most successful things I have done in life wer
 
 Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
 
-- every single project on my company website
+- every project that you can find on my company website
 
 #### Driven to excel
 
 Dedicated to mastering any skill I decide to undertake
 
-- We didn't know python and we learned and wrote python in 2 weeks
+- This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
 - #2 World of Warcraft Eurogames 2v2 PVP Tournament
 
 ## Projects
