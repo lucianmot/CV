@@ -4,22 +4,63 @@ Hello, my name is Lucian, I'm from Transylvania(Romania), not a vampire. Toghete
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Teamwork
 
-#### This Skill
+Very early on a I realized that the most success things I have done in life were all because of the team aspect functioned, so when I started my own company I started making a concious effort in developing this skill further.
 
-- Experience
-- Achievements
-- Evidence
+- Won #1 in National Case Study Competition with a good team dynamic
+- Built a team for my company
 
-#### Another Skill
+#### Learning/Understanding/Explaining
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- every single project on my company website
+
+#### Driven to excel
+
+Dedicated to mastering any skill I decide to undertake
+
+- We didn't know python and we learned and wrote python in 2 weeks
+- #2 World of Warcraft Eurogames 2v2 PVP Tournament
+
+## Projects
+
+### 🌲 [Forest - an esoteric programming language](https://github.com/lucianmot/f.rest) - Makers final project 
+<img align="right" width="375" src="https://media.giphy.com/media/LmH6cRdju9GDsn0DJ1/giphy.gif">  
+
+**Tech and methodologies used:**   
+
+* vanilla Python
+* Python's unittest framework
+* bash scripting 
+* TDD 
+* Agile, kanban 
+* mob coding 
+* meta programming
+
+### 👤 [Acebook - a Facebook clone](https://github.com/lucianmot/acebook-off-the-rails) - Makers team engineering project
+
+**Tech and methodologies used:**  
+
+* Ruby on Rails 
+* Rails-associated gems: 
+* CSS, HTML 
+* JQuery 
+* CI/CD tools: Rake, Travis, Heroku  
+* BDD, TDD 
+* Agile, teamwork 
+* Continous integration, continuous deployment
+
+### [Visual Edge - my company website](https://visualedge.ro/projects/?lang=en) - a project portofolio website
+
+**Tech and methodologies used:**  
+
+* Wordpress 
+* PHP, Apache, MySQL
+* CSS, HTML 
+* JQuery, Javascript
+* Pairing, teamwork 
 
 ## Education
 
