@@ -75,7 +75,7 @@ Dedicated to mastering any skill I decide to undertake
 
 - Business degree, focusing on Entrepreneurial Marketing
 - Grade: 9/10
-- Other cool stuff
+- Took all the extra classes: Accounting, Statistics, Project Management
 
 #### Any other qualifications
 
