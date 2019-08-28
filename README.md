@@ -7,6 +7,7 @@
 #### Why I choose coding?
 * The reason why I left my company and country was because I wanted to learn more Javascript, and there weren't as many high level opportunities to do that in Romania. Javascript felt pretty complex back then, but now I just want to learn/try out as many tech stacks as possible. Complexity is the most interesting thing to me.
 
+
 ## Projects
 
 ### 🌲 [Forest - an esoteric programming language](https://github.com/lucianmot/f.rest) - Makers final project 
@@ -65,9 +66,9 @@ Whenever we had to do something there was always the emphasis on me to learn, th
 
 Dedicated to mastering any skill I decide to undertake
 
+- we increased a client revenue from 11.000.000 € to 17.000.000 € in 6 months they had to hire 20 new employees just to answer phones call for orders being placed
 - This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
 - #2 World of Warcraft Eurogames 2v2 PVP Tournament
-- we increased a client revenue from 11.000.000 € to 17.000.000 € in 6 months they had to hire 20 new employees just to answer phones call for orders being placed
 
 
 ## Experience
@@ -89,6 +90,7 @@ Dedicated to mastering any skill I decide to undertake
 *M&A Junior Associate*  
 - Provided assistance to seniors during merges and acquisitions process
 - Working on large projects from diverse industries with multiple teams
+
 
 ## Education
 
