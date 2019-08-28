@@ -6,7 +6,7 @@ Hello, my name is Lucian, I'm from Transylvania(Romania), not a vampire. Toghete
 
 #### Teamwork
 
-Very early on a I realized that the most success things I have done in life were all because of the team aspect functioned, so when I started my own company I started making a concious effort in developing this skill further.
+Very early on I realized that the most successfull things I have done in life were all because of the team aspect functioned really well, so when I started my own company I started making a concious effort in developing this skill further.
 
 - Won #1 in National Case Study Competition with a good team dynamic
 - Built a team for my company
