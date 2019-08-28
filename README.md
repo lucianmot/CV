@@ -54,7 +54,7 @@ Very early on I realized that the most successful things I have done in life wer
 
 Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
 
-- every project that you can find on my company website(https://visualedge.ro/projects/?lang=en)
+- every project that you can find on [my company website](https://visualedge.ro/projects/?lang=en)
 
 #### Driven to excel
 
