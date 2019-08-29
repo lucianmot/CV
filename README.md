@@ -15,13 +15,13 @@
 
 **Tech and methodologies used:**   
 
-* vanilla Python
+* Vanilla Python
 * Python's unittest framework
-* bash scripting 
+* Bash scripting 
 * TDD 
-* Agile, kanban 
-* mob coding 
-* meta programming
+* Agile, Kanban 
+* Mob coding 
+* Meta programming
 
 ### 👤 [Acebook - a Facebook clone](https://github.com/lucianmot/acebook-off-the-rails) - Makers team engineering project
 
@@ -58,7 +58,7 @@ Very early on I realized that the most successful things I have done in life wer
 
 #### Learning -> Understanding -> Explaining
 
-Whenever we had to do something there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
+Whenever we had to do something, there was always the emphasis on me to learn, then understand, then break it down for everyone in to manageable chunks of information to process.
 
 - Every project that you can find on [Visual Edge, my company website](https://visualedge.ro/projects/?lang=en)
 
