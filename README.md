@@ -1,11 +1,11 @@
 ## LUCIAN MOT
 
 #### Who am I?
-* Hello, my name is Lucian, I'm from Transylvania (Romania), not a vampire.
+* Hello, my name is Lucian, I'm from Transylvania (Romania),and I'm not a vampire.
 #### What have I done?
 * Together with a team won #1 in National Case Study Competition in 2012, worked at Ersnt & Young to privatize Romania's biggest nuclear power plant, and then founded Visual Edge, a graphic design and web development agency, grew it to 9 full time employees.
 #### Why I choose coding?
-* The reason why I left my company and country was because I wanted to learn more Javascript, and there weren't as many high level opportunities to do that in Romania. Javascript felt pretty complex back then, but now I just want to learn/try out as many tech stacks as possible. Complexity is the most interesting thing to me.
+* The reason why I left my company and country was because I wanted to learn more JavaScript, and there weren't as many high level opportunities to do that in Romania. JavaScript felt pretty complex back then, but now I just want to learn/try out as many tech stacks as possible. Complexity is the most interesting thing to me.
 
 
 ## Projects
@@ -43,7 +43,7 @@
 * Wordpress 
 * PHP, Apache, MySQL
 * CSS, HTML 
-* JQuery, Javascript
+* JQuery, JavaScript
 * Pairing, teamwork 
 
 
