@@ -109,8 +109,8 @@ Dedicated to mastering any skill I decide to undertake
 
 ## Hobbies
 
-I'm a bit weird in regards to my hobbies, because I pick some hobbies quickly, my interest in that hobby grows really intense for about 1-3 years, and then I just simple grow bored and change hobbies. I have had a lot of hobbies in the past years. So here is a list in reverse chronological order of the more notable ones:
-- Magic of The Gathering(card game)
+I'm a bit weird in regards to my hobbies, because I pick some hobbies quickly, my interest in that hobby grows really intense for about 1-3 years, and then I just simply grow bored and change hobbies. I have had a lot of hobbies in the past few years. So here is a list in reverse chronological order of the more notable ones:
+- Magic: The Gathering
 - E-commerce start-up
 - Semi-professional photography
 - Business networking
