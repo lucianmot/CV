@@ -36,7 +36,7 @@
 * Agile, teamwork 
 * Continuous integration, continuous deployment
 
-### :computer: [Visual Edge - my company website](https://visualedge.ro/projects/?lang=en) - a project portfolio website
+### :computer: [Visual Edge - company website](https://visualedge.ro/projects/?lang=en) - a project portfolio website
 
 **Tech and methodologies used:**  
 
