@@ -78,7 +78,7 @@ Dedicated to mastering any skill I decide to undertake
 - Listening to client demands and adapting towards their needs
 
 **Visual Edge** (March 2013 to January 2018)   
-*Managing Partner*  
+*Co-founder / Web developer*  
 - Co-founded graphic design and web development agency
 - Implemented multiple Wordpress websites
 - Pairing/Mob programming
