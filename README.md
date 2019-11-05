@@ -69,6 +69,7 @@ Dedicated to mastering any skill I decide to undertake
 - We increased a client revenue from € 11.000.000 to  € 17.000.000. In 6 months they had to hire 20 new employees just to answer phones call for orders being placed
 - This drive is what inspired our team in the final project, which results in us building a fully functional tokenizer, parser, interpreter 
 - #2 World of Warcraft Eurogames 2v2 PVP Tournament
+- Participated in Credit Suisse Coding challenge ended up in the top 20's in UK & Ireland region 
 
 
 ## Experience
