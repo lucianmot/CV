@@ -111,6 +111,7 @@ Dedicated to mastering any skill I decide to undertake
 ## Hobbies
 
 I do enjoy a wide range of hobbies and charity work. I have had a lot of hobbies in the past few years. So here is a list in reverse chronological order of the more notable ones:
+- Competitive Coding
 - Magic: The Gathering
 - E-commerce start-up
 - Semi-professional photography
